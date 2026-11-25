@@ -2,7 +2,7 @@
 
 [![make.fun](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0)
 [![rank](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0/konzlodon74-dot/inventword/rank.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0)
-[![reward](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0/reward.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0)
+[![reward](https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0/konzlodon74-dot/inventword/reward.svg)](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0)
 
 An entry for the [Invent a Word We Need](https://make.fun/bounty/u-deranalabs-invent-a-word-we-need-17a020e0) bounty on make.fun.
 
